@@ -1,8 +1,8 @@
 # TS Exercise 1: Plot a Time Series Data
 
-## Name: Boopathy S
+## Name: Balaji SK
 
-## Roll no: 2305003002
+## Roll no: 2305003001
 
 ## Department: AIML
 
